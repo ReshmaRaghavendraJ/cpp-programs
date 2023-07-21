@@ -29,7 +29,7 @@ public:
     }
     int getdisplay()
     {
-        Return min;
+        return min;
     }
 };
 int main()
